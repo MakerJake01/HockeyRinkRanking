@@ -1,6 +1,6 @@
 # MakerJake's hockey rink ranking
 
-As of 2024-06-17 I have been to 10 barns primarily in the northeast.
+As of 2024-11-05 I have been to 12 barns primarily in the northeast.
 Here is the list in chronological order.
 
 | Rink/Arena Name         | School/owner                | Location          | 
@@ -15,3 +15,23 @@ Here is the list in chronological order.
 | Agganis Arena           | Boston University           | Boston, MA        |
 | TD Garden               | Delaware North Companies    | Boston, MA        |
 | Alfond Sports Arena     | University of Maine         | Orono, ME         |
+| Hart Center Arena       | College of the Holy Cross   | Worcester, MA     |
+| Schneider Arena         | Providence College          | Providence, RI    |
+
+
+Hockey East checklist (9/13)
+| Rink/Arena Name         | School                              | Location            | Been?              |
+| ----------------------- | ----------------------------------- | ------------------- | ------------------ |
+| Conte Forum             | Boston College                      | Chestnut Hill, MA   | :white_check_mark: |
+| Agganis Arena           | Boston University                   | Boston, MA          | :white_check_mark: |
+| Walter Brown Arena      | Boston University                   | Boston, MA          | :white_check_mark: |
+| Toscano Ice Forum       | University of Connecticut           | Storrs, CT          | :white_check_mark: |
+| Hart Center Arena       | College of the Holy Cross           | Worcester, MA       | :white_check_mark: |
+| Alfond Sports Arena     | University of Maine                 | Orono, ME           | :white_check_mark: |
+| Mullins Center          | University of Massachusetts Amherst | Hadley, MA          | :x:                |
+| Tsongas Center          | University of Massachusetts Lowell  | Lowell, MA          | :x:                |
+| Lawler Rink             | Merrimack College                   | North Andover, MA   | :x:                |
+| Whittemore Center Arena | University of New Hampshire         | Durham, NH          | :white_check_mark: |
+| Matthews Arena          | Northeastern University             | Boston, MA          | :white_check_mark: |
+| Schneider Arena         | Providence College                  | Providence, RI      | :white_check_mark: |
+| Gutterson Fieldhouse    | University of Vermont               | Burlington, Vermont | :x:                |
